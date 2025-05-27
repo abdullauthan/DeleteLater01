@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using DeleteLater01.Data;
+using DeleteLater01.Domain.Models;
 using DeleteLater01.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;

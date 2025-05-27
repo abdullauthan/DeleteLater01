@@ -1,4 +1,4 @@
-﻿using DeleteLater01.Models;
+﻿using DeleteLater01.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace DeleteLater01.Data

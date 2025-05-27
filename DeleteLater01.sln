@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteLater01", "DeleteLater01\DeleteLater01.csproj", "{96DA310F-0B33-434B-865F-2000B512AE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteLater01.Domain", "DeleteLater01.Domain\DeleteLater01.Domain.csproj", "{A5F4BE77-B8AE-4B76-9578-11BC4813DA1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{96DA310F-0B33-434B-865F-2000B512AE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96DA310F-0B33-434B-865F-2000B512AE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96DA310F-0B33-434B-865F-2000B512AE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F4BE77-B8AE-4B76-9578-11BC4813DA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F4BE77-B8AE-4B76-9578-11BC4813DA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F4BE77-B8AE-4B76-9578-11BC4813DA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F4BE77-B8AE-4B76-9578-11BC4813DA1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02504DE7-9C72-4854-ABF8-6B269A94BFB0}
 	EndGlobalSection
 EndGlobal

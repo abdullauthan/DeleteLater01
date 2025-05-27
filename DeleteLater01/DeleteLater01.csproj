@@ -11,4 +11,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DeleteLater01.Domain\DeleteLater01.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

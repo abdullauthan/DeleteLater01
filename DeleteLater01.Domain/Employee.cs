@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
 
-namespace DeleteLater01.Models
+namespace DeleteLater01.Domain.Models
 {
     public class Employee
     {
